@@ -1,1 +1,1 @@
-New Project for chrome extension
+Rust Web Scrapper - progress
